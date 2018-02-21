@@ -36,4 +36,33 @@ Property      | Type        | Default   | Require   | Description
 ## Proxy
 Some of provider is not allow cross-origin HTTP request and ombed will not work with those site. You need to put proxy url to make it work. I would suggest to use [cors-anywhere.herokuapp.com](https://cors-anywhere.herokuapp.com) as your proxy. Self hosted version is provide at [https://github.com/Rob--W/cors-anywhere/](https://github.com/Rob--W/cors-anywhere/).
 
+## Browser Support
 
+ ![Chrome](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/chrome/chrome_48x48.png) | ![Opera](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/opera/opera_48x48.png) | ![Firefox](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/firefox/firefox_48x48.png) | ![Safari](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/safari/safari_48x48.png) |![IE](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) |  ![Edge](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/edge/edge_48x48.png) |
+:---: | :---: | :---: | :---: | :---: | :---: |
+Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11+ | Latest ✔
+
+## Based on vue.js?
+Yes. This component use vue.js and [vue-custom-element](https://github.com/karol-f/vue-custom-element) for development. However You not need to add vue.js to your project because is all packed in `dist.js`
+
+## Development
+
+Install dependencies
+```sh
+yarn
+```
+
+Start the development
+```sh
+yarn dev
+```
+
+Run unit test
+```sh
+yarn test
+```
+
+Run build for make bundle
+```sh
+yarn build
+```
