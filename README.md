@@ -8,14 +8,20 @@
 
 ## How to install
 
-add script tag at head
+Add script tag at head
 
-`<script src="path/to/lib/oembed-element/dist/dist.js"></script>`
+```html
+<script src="path/to/lib/oembed-element/dist/dist.js"></script>
+```
 
-or
+or install with Yarn
 
-`yarn add ombed-component`
+```sh
+yarn add ombed-component
+```
 
 ## How to use
 
-`<o-embed url="https://www.instagram.com/p/BfcNH1XD91P/"></o-embed>`
+```html
+<o-embed url="https://www.instagram.com/p/BfcNH1XD91P/"></o-embed>
+```
