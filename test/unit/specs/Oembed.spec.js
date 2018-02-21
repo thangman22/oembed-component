@@ -15,7 +15,7 @@ describe('Oembed.vue', () => {
     }
     const vm = new Constructor({ propsData: props }).$mount()
     expect(vm.$el.innerHTML)
-      .toEqual('<!----> <div class="__v-oembed-error">Endpoint isn\'t supported</div>')
+      .toEqual('<!----> <div class="__v-oembed-error" style="font-family: -apple-system, system-ui, Roboto, sans-serif; padding: 15px; border-radius: 3px; text-align: center;">Endpoint isn\'t supported</div>')
   })
 
   it('sets the correct default data', () => {
