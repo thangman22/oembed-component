@@ -1,7 +1,7 @@
 {
   "name": "oembed-element",
   "version": "1.0.0",
-  "description": "Oembed Component",
+  "description": "oEmbed web component that make you easy to embed everything.",
   "author": "Warat Wongmaneekit <canopybanj@gmail.com>",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
