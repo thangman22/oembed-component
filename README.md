@@ -48,8 +48,24 @@ Yes. This component use vue.js and [vue-custom-element](https://github.com/karol
 ## Development
 
 ```sh
-yarn //Install dependencies
-yarn dev //Start the development
-yarn test //Run unit test
-yarn build //Run build for make bundle
+yarn # Install dependencies
+yarn dev # Start the development
+yarn test # Run unit test
+yarn build # Run build for make bundle
 ```
+
+## Development
+
+```sh
+yarn # Install dependencies
+yarn dev # Start the development
+yarn test # Run unit test
+yarn build # Run build for make bundle
+```
+
+## Contributing
+Find on our issues the next steps of the project ;)
+Want to contribute? PR please.
+
+## License
+MIT License © [valleweb](https://github.com/thangman22)
