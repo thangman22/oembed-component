@@ -1,27 +1,21 @@
-# vue-element
+# Ombed component
 
-> A Vue.js project
+> oEmbed web component that make you easy to embed everything.
 
-## Build Setup
+`<o-embed>` is component to help developer put any embed that support oEmbed to website easier.
 
-``` bash
-# install dependencies
-npm install
+[Provider supported](https://oembed.com/providers.json)
 
-# serve with hot reload at localhost:8080
-npm run dev
+## How to install
 
-# build for production with minification
-npm run build
+add script tag at head
 
-# build for production and view the bundle analyzer report
-npm run build --report
+`<script src="path/to/lib/oembed-element/dist/dist.js"></script>`
 
-# run unit tests
-npm run unit
+or
 
-# run all tests
-npm test
-```
+`yarn add ombed-component`
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## How to use
+
+`<o-embed url="https://www.instagram.com/p/BfcNH1XD91P/"></o-embed>`
