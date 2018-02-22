@@ -10,7 +10,7 @@
     "oembed",
     "web-component"
   ],
-  "homepage": "https://github.com/thangman22/ombed-element",
+  "homepage": "https://github.com/thangman22/ombed-component",
   "ignore": [
     "**/.*",
     "node_modules",
