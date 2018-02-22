@@ -1,10 +1,15 @@
 {
   "name": "oembed-component",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "oEmbed web component that make you easy to embed everything.",
   "author": "Warat Wongmaneekit <canopybanj@gmail.com>",
   "main": "dist/oEmbed.js",
-  "keywords": ["vuejs", "oembed","web-component","embed"],
+  "keywords": [
+    "vuejs",
+    "oembed",
+    "web-component",
+    "embed"
+  ],
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
