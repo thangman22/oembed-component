@@ -28,7 +28,10 @@ yarn add oembed-component
 <!--
 ```
 <custom-element-demo>
+<template>
   <script src="https://cdn.jsdelivr.net/npm/oembed-component/dist/oEmbed.js" defer async></script>
+  <o-embed url="https://www.instagram.com/p/BfcNH1XD91P/"></o-embed>
+</template>
 </custom-element-demo>
 ```
 -->
