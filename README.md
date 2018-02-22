@@ -1,4 +1,4 @@
-# Ombed component
+# Oembed component
 
 > oEmbed web component that make you easy to embed everything.
 
@@ -11,13 +11,13 @@
 Add script tag at head
 
 ```html
-<script defer async src="https://cdn.jsdelivr.net/npm/ombed-component/dist/oEmbed.js"></script>
+<script defer async src="https://cdn.jsdelivr.net/npm/oembed-component/dist/oEmbed.js"></script>
 ```
 
 or install with Yarn
 
 ```sh
-yarn add ombed-component
+yarn add oembed-component
 ```
 
 ## How to use
@@ -34,7 +34,7 @@ Property      | Type        | Default   | Require   | Description
 `proxy`       | *String*    | `""`      | false     | URL of proxy
 
 ## Proxy
-Some of provider is not allow cross-origin HTTP request and ombed will not work with those site. You need to put proxy url to make it work. I would suggest to use [cors-anywhere.herokuapp.com](https://cors-anywhere.herokuapp.com) as your proxy. Self hosted version is provide at [https://github.com/Rob--W/cors-anywhere/](https://github.com/Rob--W/cors-anywhere/).
+Some of provider is not allow cross-origin HTTP request and oembed will not work with those site. You need to put proxy url to make it work. I would suggest to use [cors-anywhere.herokuapp.com](https://cors-anywhere.herokuapp.com) as your proxy. Self hosted version is provide at [https://github.com/Rob--W/cors-anywhere/](https://github.com/Rob--W/cors-anywhere/).
 
 ## Browser Support
 

@@ -1,5 +1,5 @@
 {
-  "name": "ombed-component",
+  "name": "oembed-component",
   "description": "oEmbed web component that make you easy to embed everything.",
   "main": "dist/oEmbed.js",
   "authors": [
@@ -10,7 +10,7 @@
     "oembed",
     "web-component"
   ],
-  "homepage": "https://github.com/thangman22/ombed-component",
+  "homepage": "https://github.com/thangman22/oembed-component",
   "ignore": [
     "**/.*",
     "node_modules",
