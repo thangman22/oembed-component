@@ -11,7 +11,7 @@
 Add script tag at head
 
 ```html
-<script defer async src="https://cdn.jsdelivr.net/gh/thangman22/oembed-component/dist/oEmbed.js"></script>
+<script defer async src="https://cdn.jsdelivr.net/npm/ombed-component/dist/oEmbed.js"></script>
 ```
 
 or install with Yarn
