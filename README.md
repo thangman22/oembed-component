@@ -2,8 +2,9 @@
 
 > oEmbed web component that make you easy to embed everything.
 
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/thangman22/oembed-component)
+![oembed](https://raw.githubusercontent.com/thangman22/oembed-component/master/static/facebook-feature-image.png)
 
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/thangman22/oembed-component)
 
 `<o-embed>` is component to help developer put any embed that support oEmbed to website easier.
 
