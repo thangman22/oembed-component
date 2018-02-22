@@ -1,0 +1,21 @@
+{
+  "name": "ombed-component",
+  "description": "oEmbed web component that make you easy to embed everything.",
+  "main": "dist/oEmbed.js",
+  "authors": [
+    "Warat Wongmaneekit <canopybanj@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "oembed",
+    "web-component"
+  ],
+  "homepage": "https://github.com/thangman22/ombed-element",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
