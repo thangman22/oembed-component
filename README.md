@@ -68,4 +68,6 @@ Find on our issues the next steps of the project ;)
 Want to contribute? PR please.
 
 ## License
-MIT License © [valleweb](https://github.com/thangman22)
+MIT License © [thangman22](https://thangman22.com)
+
+See my another project at [thangman22.com](https://thangman22.com)
