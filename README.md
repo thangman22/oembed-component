@@ -2,6 +2,9 @@
 
 > oEmbed web component that make you easy to embed everything.
 
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/thangman22/oembed-component)
+
+
 `<o-embed>` is component to help developer put any embed that support oEmbed to website easier.
 
 [Provider supported](https://oembed.com/providers.json)
@@ -22,6 +25,13 @@ yarn add oembed-component
 
 ## How to use
 
+<!--
+```
+<custom-element-demo>
+  <script src="https://cdn.jsdelivr.net/npm/oembed-component/dist/oEmbed.js" defer async></script>
+</custom-element-demo>
+```
+-->
 ```html
 <o-embed url="https://www.instagram.com/p/BfcNH1XD91P/"></o-embed>
 ```
