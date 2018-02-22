@@ -1,6 +1,6 @@
 {
   "name": "oembed-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "oEmbed web component that make you easy to embed everything.",
   "author": "Warat Wongmaneekit <canopybanj@gmail.com>",
   "main": "dist/oEmbed.js",

@@ -11,7 +11,7 @@
 Add script tag at head
 
 ```html
-<script src="path/to/lib/oembed-element/dist/dist.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/oembed-element/dist/oEmbed.js"></script>
 ```
 
 or install with Yarn
