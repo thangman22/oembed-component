@@ -92,7 +92,18 @@
     "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?twitter\\.com\\/(?:#!)?[^#?\\/]+\\/status\\/.+$"
   ],
   "https://www.facebook.com/plugins/video/oembed.json": [
-    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/(?:#!)?[^#?\\/]+\\/videos\\/.+$"
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/(?:#!)?[^#?\\/]+\\/videos\\/.+$",
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/video.php.+$"
+  ],
+  "https://www.facebook.com/plugins/post/oembed.json": [
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/(?:#!)?[^#?\\/]+\\/posts\\/.+$",
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/(?:#!)?[^#?\\/]+\\/activity\\/.+$",
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/(?:#!)?[^#?\\/]+\\/media\\/.+$",
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/(?:#!)?[^#?\\/]+\\/questions\\/.+$",
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/(?:#!)?[^#?\\/]+\\/photos\\/.+$",
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/(?:#!)?[^#?\\/]+\\/notes\\/.+$",
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/permalink.php.+$",
+    "^http(?:s)?:\\/\\/(?:[-\\w]+\\.)?facebook\\.com\\/photo.php.+$"
   ],
   "https://soundcloud.com/oembed": [
     "^https:\\/\\/(?:[-\\w]+\\.)?soundcloud\\.com\\/[^#?\\/]+\\/.+$"

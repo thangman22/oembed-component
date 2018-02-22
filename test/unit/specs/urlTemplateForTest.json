@@ -292,5 +292,18 @@
   "http://audioboo.fm/boos/*",
   "https://audioboo.fm/boos/*",
   "http://demo.clikthrough.com/theater/video/*",
-  "https://demo.clikthrough.com/theater/video/*"
+  "https://demo.clikthrough.com/theater/video/*",
+  "https://www.facebook.com/{page-name}/posts/{post-id}",
+  "https://www.facebook.com/{username}/posts/{post-id}",
+  "https://www.facebook.com/{username}/activity/{activity-id}",
+  "https://www.facebook.com/photo.php?fbid={photo-id}",
+  "https://www.facebook.com/{page-name}/photos/{photo-id}",
+  "https://www.facebook.com/permalink.php?story_fbid={post-id}",
+  "https://www.facebook.com/{page-name}/media/set?set={set-id}",
+  "https://www.facebook.com/{page-name}/questions/{question-id}",
+  "https://www.facebook.com/{page-name}/notes/{username}/{note-url}/{note-id}",
+  "https://www.facebook.com/{page-name}/videos/{video-id}/",
+  "https://www.facebook.com/{username}/videos/{video-id}/",
+  "https://www.facebook.com/video.php?id={video-id}",
+  "https://www.facebook.com/video.php?v={video-id}"
 ]

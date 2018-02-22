@@ -37,6 +37,7 @@ describe('Oembed.vue', () => {
 
   it('getOembedEnpoint should return correct', () => {
     let notFoundPattern = urlTemplateForTest.filter(url => !Oembed.methods.getOembedEnpoint(url))
+    console.log(notFoundPattern)
     expect(notFoundPattern.length)
       .toEqual(0)
   })
