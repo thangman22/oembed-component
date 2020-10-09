@@ -8,7 +8,7 @@
 
 `<o-embed>` is a component which makes it easy to display any embed that supports oEmbed.
 
-[Provider supported](https://oembed.com/providers.json)
+[Supported Providers](https://oembed.com/providers.json)
 
 ## How to install
 

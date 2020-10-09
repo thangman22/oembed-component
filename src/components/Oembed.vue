@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import EndPoints from '@/endpoints-regexp.json'
+import EndPoints from '../endpoints-regexp.json'
 
 export default {
   name: 'o-embed',
