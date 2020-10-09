@@ -17,13 +17,15 @@
     "test": "npm run unit",
     "lint": "eslint --ext .js,.vue src test/unit",
     "build": "node build/build.js",
-    "publish:npm": "npm version patch && npm publish"
+    "publish:npm": "npm version patch && npm publish",
+    "getproviders": "node build/getproviders.js"
   },
   "dependencies": {
     "vue": "^2.5.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
+    "axios": "^0.20.0",
     "babel-core": "^6.22.1",
     "babel-eslint": "^8.2.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
